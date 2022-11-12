@@ -28,6 +28,8 @@ This is an e-commerce back-end database created in the UW Coding Bootcamp. This 
 
 Link to Video of Walkthrough for Demonstration:
 
+https://youtu.be/Oj_nnA2_WO0
+
 
 - Open terminal and navigate to ecommerce_back_end folder
 - Type npm init -y into terminal to create a new .json file
